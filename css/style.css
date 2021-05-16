@@ -1,0 +1,25 @@
+
+/* small device 576px */
+@media (min-width: 576px){
+    body{
+        background: red;
+    }
+}
+/* mediam 768px */
+@media (min-width: 768px){
+    body{
+        background: gray;
+    }
+}
+/* large device 992px */
+@media (min-width: 992px){
+    body{
+        background: blue;
+    }
+}
+/* extra device 1200px */
+@media (min-width: 1200px){
+    body{
+        background: yellow;
+    }
+} 
